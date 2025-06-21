@@ -30,7 +30,7 @@ Below is a list of projects included in this certification, organized by topic:
 - [x] **Python List Comprehension: Case Converter**
 
 ### Numerical Methods & Algorithms
-- [ ] **Bisection Method: Square Root Finder**
+- [x] **Bisection Method: Square Root Finder**
 - [ ] **Algorithm Design: Shortest Path Algorithm**
 - [ ] **Recursion: Tower of Hanoi**
 - [ ] **Sorting: Merge Sort Algorithm**

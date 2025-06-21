@@ -1,6 +1,6 @@
 # Non-Certification Projects — Scientific Computing with Python
 
-This folder contains bonus projects built alongside my progress in the [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) certification by freeCodeCamp. These mini-projects were not required for certification but were designed to reinforce key Python programming concepts through hands-on practice.
+This folder contains projects built during my progress in the [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) certification by freeCodeCamp. These mini-projects were not required for certification but were designed to reinforce key Python programming concepts through hands-on practice.
 
 ---
 
@@ -29,6 +29,12 @@ Explore classical encryption techniques with Caesar and Vigenère ciphers.
 
 - Focus: Modular arithmetic, string iteration, and algorithmic thinking
 - Skills practiced: Looping, lowercase normalization, keyword-based offsetting
+
+### Bisection Method Lab (Square Root Approximation)
+Estimate the square root of a non-negative number using the bisection method.
+
+- Focus: Numerical methods, iterative approximation, tolerance thresholds  
+- Skills practiced: `abs()`, `for` loops with `_`, midpoint averaging, `ValueError`, control flow with convergence check
 
 ---
 
