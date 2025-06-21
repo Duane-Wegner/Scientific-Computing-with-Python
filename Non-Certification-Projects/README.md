@@ -16,10 +16,10 @@ Below is a list of projects organized by Section.
 - [**Bisection Method: Square Root Finder**](./Section%201/Find%20the%20Square%20Root%20of%20a%20Number)
 
 ### Section 2
-- **Build a Password Generator Using Regular Expressions**
-- **Algorithm Design: Shortest Path Algorithm**
-- **Recursion: Tower of Hanoi**
-- **Sorting: Merge Sort Algorithm**
+- [**Build a Password Generator Using Regular Expressions**](./Section%202/Password%20Generator)
+- [**Algorithm Design: Shortest Path Algorithm**](./Section%202/Shortest%20Path)
+- [**Recursion: Tower of Hanoi**](./Section%202/Tower%20of%20Hanoi%20Puzzle)
+- [**Sorting: Merge Sort Algorithm**](./Section%202/Merge%20Sort%20Algo)
 
 ### Section 3
 - **Classes and Objects: Sudoku Solver**
