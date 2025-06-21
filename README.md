@@ -50,11 +50,11 @@ Below is a list of projects included in this certification, organized by topic:
 
 To complete the certification, the following five projects must be submitted and pass all test cases:
 
-1. Arithmetic Formatter
-2. Time Calculator
-3. Budget App
-4. Polygon Area Calculator
-5. Probability Calculator
+1. [x] [**Arithmetic Formatter**](./Certification-Projects/Arithmetic%20Porgram)
+2. [ ] Time Calculator
+3. [ ] Budget App
+4. [ ] Polygon Area Calculator
+5. [ ] Probability Calculator
 
 Once all certification projects are completed and submitted, the official **Scientific Computing with Python Certification** will be issued by [freeCodeCamp](https://www.freecodecamp.org/).
 
