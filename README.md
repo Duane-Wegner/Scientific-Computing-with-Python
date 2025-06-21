@@ -21,16 +21,16 @@ Below is a list of projects included in this certification, organized by topic:
 
 ### Core Python Concepts
 - [ ] **Build an Arithmetic Formatter** – Format arithmetic problems vertically.
-- [x] **Learn String Manipulation by Building a Cipher**
-- [x] **Work with Numbers and Strings: Luhn Algorithm**
+- [x] [**Learn String Manipulation by Building a Cipher**](./Non-Certification-Projects/cipher)
+- [x] [**Work with Numbers and Strings: Luhn Algorithm**](./Non-Certification-Projects/Luhn%20Algo)
 - [ ] **Build a Password Generator Using Regular Expressions**
 
 ### Functional Programming
-- [x] **Use Lambda Functions: Build an Expense Tracker**
-- [x] **Python List Comprehension: Case Converter**
+- [x] [**Use Lambda Functions: Build an Expense Tracker**](./Non-Certification-Projects/Expense%20Tracker)
+- [x] [**Python List Comprehension: Case Converter**](./Non-Certification-Projects/Case%20Converter)
 
 ### Numerical Methods & Algorithms
-- [x] **Bisection Method: Square Root Finder**
+- [x] [**Bisection Method: Square Root Finder**](./Non-Certification-Projects/Find%20the%20Square%20Root%20of%20a%20Number)
 - [ ] **Algorithm Design: Shortest Path Algorithm**
 - [ ] **Recursion: Tower of Hanoi**
 - [ ] **Sorting: Merge Sort Algorithm**
