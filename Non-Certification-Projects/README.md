@@ -4,39 +4,36 @@ This folder contains projects built during my progress in the [Scientific Comput
 
 ---
 
-## Included Projects
+## Project List
 
-### Case Converter
-Convert PascalCase or camelCase strings into snake_case using list comprehensions and conditional logic.
+Below is a list of projects included in this certification, organized by topic:
 
-- Focus: String manipulation, list comprehensions, `join()`, and ternary expressions
-- Skills practiced: `.isupper()`, `.lower()`, `strip('_')`, readability
+### Core Python Concepts
+- [ ] **Build an Arithmetic Formatter** – Format arithmetic problems vertically.
+- [x] [**Learn String Manipulation by Building a Cipher**](./Non-Certification-Projects/Section%201/cipher)
+- [x] [**Work with Numbers and Strings: Luhn Algorithm**](./Non-Certification-Projects/Section%201/Luhn%20Algo)
+- [ ] **Build a Password Generator Using Regular Expressions**
 
-### Expense Tracker
-A command-line app for recording, filtering, and totaling categorized expenses.
+### Functional Programming
+- [x] [**Use Lambda Functions: Build an Expense Tracker**](./Non-Certification-Projects/Section%201/Expense%20Tracker)
+- [x] [**Python List Comprehension: Case Converter**](./Non-Certification-Projects/Section%201/Case%20Converter)
 
-- Focus: Functional programming using `lambda`, `map()`, and `filter()`
-- Skills practiced: Higher-order functions, data collection, CLI interaction
+### Numerical Methods & Algorithms
+- [x] [**Bisection Method: Square Root Finder**](./Non-Certification-Projects/Section%201/Find%20the%20Square%20Root%20of%20a%20Number)
+- [ ] **Algorithm Design: Shortest Path Algorithm**
+- [ ] **Recursion: Tower of Hanoi**
+- [ ] **Sorting: Merge Sort Algorithm**
 
-### Luhn Algorithm Validator
-Implements the Luhn algorithm to validate credit card numbers.
-
-- Focus: Control flow, digit manipulation, and checksum logic
-- Skills practiced: List slicing, conditionals, string reversal, modulus math
-
-### Cipher Lab
-Explore classical encryption techniques with Caesar and Vigenère ciphers.
-
-- Focus: Modular arithmetic, string iteration, and algorithmic thinking
-- Skills practiced: Looping, lowercase normalization, keyword-based offsetting
-
-### Bisection Method Lab (Square Root Approximation)
-Estimate the square root of a non-negative number using the bisection method.
-
-- Focus: Numerical methods, iterative approximation, tolerance thresholds  
-- Skills practiced: `abs()`, `for` loops with `_`, midpoint averaging, `ValueError`, control flow with convergence check
-
----
+### Object-Oriented Programming (OOP)
+- [ ] **Build a Time Calculator**
+- [ ] **Build a Budget App**
+- [ ] **Build a Polygon Area Calculator**
+- [ ] **Build a Probability Calculator**
+- [ ] **Classes and Objects: Sudoku Solver**
+- [ ] **Encapsulation: Projectile Trajectory Calculator**
+- [ ] **Special Methods: Vector Space**
+- [ ] **Interfaces: Equation Solver**
+- [ ] **Tree Traversal: Binary Search Tree**
 
 ## Purpose
 
