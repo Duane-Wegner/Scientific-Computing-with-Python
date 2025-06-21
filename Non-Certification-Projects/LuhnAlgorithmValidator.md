@@ -34,7 +34,7 @@ This Python script checks whether a given credit card number is **valid** using 
 
 ---
 
-## 💻 How to Use
+## How to Use
 
 1. Open the script in any Python 3 environment
 2. Set your `card_number` variable inside the `main()` function
@@ -45,7 +45,6 @@ This Python script checks whether a given credit card number is **valid** using 
 ## Example Output
 
 VALID!
-
 
 ---
 
