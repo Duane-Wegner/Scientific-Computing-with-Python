@@ -24,7 +24,7 @@ Below is a list of projects included in this certification, organized by topic:
 - [ ] **Build an Arithmetic Formatter** – Format arithmetic problems vertically.
 - [x] [**Learn String Manipulation by Building a Cipher**](./Non-Certification-Projects/Section%201/cipher)
 - [x] [**Work with Numbers and Strings: Luhn Algorithm**](./Non-Certification-Projects/Section%201/Luhn%20Algo)
-- [ ] **Build a Password Generator Using Regular Expressions**
+- [x] **Build a Password Generator Using Regular Expressions**
 
 ### Functional Programming
 - [x] [**Use Lambda Functions: Build an Expense Tracker**](./Non-Certification-Projects/Section%201/Expense%20Tracker)
