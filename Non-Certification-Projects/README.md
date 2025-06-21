@@ -28,6 +28,6 @@ Below is a list of projects included in this certification course that were not 
 ### Section 4
 - [ ] **Special Methods: Vector Space**
 - [ ] **Interfaces: Equation Solver**
-- 
+
 ### Section 5
 - [ ] **Encapsulation: Projectile Trajectory Calculator**
