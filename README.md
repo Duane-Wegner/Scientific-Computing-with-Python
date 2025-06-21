@@ -21,17 +21,27 @@ The course equips learners with essential skills in:
 Below is a list of projects included in this certification, organized by topic:
 
 ### Core Python Concepts
-- [ ] **Build an Arithmetic Formatter** – Format arithmetic problems vertically.
+
+- [x] [![Certification Project](https://img.shields.io/badge/Certification-Project-blueviolet?style=flat&logo=python&logoColor=white)]()
+[**Arithmetic Formatter**](./Certification-Projects/Arithmetic%20Porgram)
+  - This project formats arithmetic problems vertically and side-by-side, just like students would write them in primary school.
 - [x] [**Learn String Manipulation by Building a Cipher**](./Non-Certification-Projects/Section%201/cipher)
+  - This project walks through the fundamentals of encryption using Python. It introduces two classical cipher systems, Caesar Cipher and Vigenère Cipher, alongside a practical exploration of string manipulation, control flow, and functional programming.
 - [x] [**Work with Numbers and Strings: Luhn Algorithm**](./Non-Certification-Projects/Section%201/Luhn%20Algo)
+  - This Python script checks whether a given credit card number is valid using the Luhn algorithm—a checksum formula used to validate identification numbers such as credit card numbers.
 - [x] [**Build a Password Generator Using Regular Expressions**](./Non-Certification-Projects/Section%202/Password%20Generator)
+  - This project puts regular expressions and secure randomness to work by generating customizable passwords with specific character constraints. You'll explore how to combine cryptography and validation logic to create robust, criteria-based outputs.
 
 ### Functional Programming
 - [x] [**Use Lambda Functions: Build an Expense Tracker**](./Non-Certification-Projects/Section%201/Expense%20Tracker)
+  - A simple command-line program that helps you track, categorize, and summarize expenses using Python. Built as part of freeCodeCamp’s lambda function curriculum, this project puts core concepts of functional programming and list manipulation into practice.
 - [x] [**Python List Comprehension: Case Converter**](./Non-Certification-Projects/Section%201/Case%20Converter)
+  - This project converts strings written in PascalCase or camelCase into snake_case. It's a clean, expressive example of how to use list comprehension, conditional expressions, and string manipulation in Python to build practical tools that align with naming conventions in Python and beyond.
+
 
 ### Numerical Methods & Algorithms
 - [x] [**Bisection Method: Square Root Finder**](./Non-Certification-Projects/Section%201/Find%20the%20Square%20Root%20of%20a%20Number)
+  - This project implements the bisection method to approximate the square root of a non-negative number using pure Python. It’s a clear and methodical demonstration of numerical methods applied in scientific computing, designed to reinforce concepts from freeCodeCamp’s Scientific Computing with Python curriculum.
 - [ ] **Algorithm Design: Shortest Path Algorithm**
 - [ ] **Recursion: Tower of Hanoi**
 - [ ] **Sorting: Merge Sort Algorithm**
@@ -47,9 +57,9 @@ Below is a list of projects included in this certification, organized by topic:
 - [ ] **Interfaces: Equation Solver**
 - [ ] **Tree Traversal: Binary Search Tree**
 
-## Certification Requirements
+## [![Certification](https://img.shields.io/badge/Certification-Project-blueviolet?style=flat&logo=python&logoColor=white)]() Requirements
 
-To complete the certification, the following five projects must be submitted and pass all test cases:
+To complete the certification, the following five certification projects must be submitted and pass all test cases:
 
 1. [x] [**Arithmetic Formatter**](./Certification-Projects/Arithmetic%20Porgram)
 2. [ ] Time Calculator
@@ -57,7 +67,7 @@ To complete the certification, the following five projects must be submitted and
 4. [ ] Polygon Area Calculator
 5. [ ] Probability Calculator
 
-Once all certification projects are completed and submitted, the official **Scientific Computing with Python Certification** will be issued by [freeCodeCamp](https://www.freecodecamp.org/).
+Once all certification projects are completed and submitted, the official **Scientific Computing with Python Certification** will be issued by [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Scientific_Computing_with_Python-0A0A23?logo=freeCodeCamp&logoColor=white&style=flat)](https://www.freecodecamp.org/learn/scientific-computing-with-python/). **(I will place a link here to certification upon completion.)**
 
 ## Tech Stack
 
