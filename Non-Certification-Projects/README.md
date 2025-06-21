@@ -50,7 +50,7 @@ They also give me space to experiment, debug, and deepen my understanding of how
 
 ---
 
-## 🛠Tools
+## Tools
 
 - Language: Python 3.x
 - IDEs: Any (e.g., VS Code, PyCharm, Replit)
