@@ -56,7 +56,7 @@ print('\n=== Caesar Cipher Demos ===')
 text = 'Hello Zaira'
 print('Original message:', text)
 print('Shift 3:', caesar(text, 3))        # encrypted
-print('Shift 13 (ROT13):', caesar(text, 13))
+print('Shift 13:', caesar(text, 13))
 
 # ---------------------------------------------
 # PART 3: Vigenère Cipher — Keyword-Based Shifting
