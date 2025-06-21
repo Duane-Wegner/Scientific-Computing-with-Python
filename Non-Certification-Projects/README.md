@@ -6,7 +6,7 @@ This folder contains projects built during my progress in the [Scientific Comput
 
 ## Project List
 
-Below is a list of projects included in this certification course that were not required to get the certification, organized by Section:
+Below is a list of projects organized by Section.
 
 ### Section 1
 - [x] [**Use Lambda Functions: Build an Expense Tracker**](./Section%201/Expense%20Tracker)
