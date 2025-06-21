@@ -23,7 +23,7 @@ print(type(text))               # check the data type
 print(text.lower())             # convert to lowercase
 
 """
-💡 Python Notes: Variables & Strings
+ Python Notes: Variables & Strings
 
 - Variable names must begin with a letter or underscore (not a number).
 - Reserved keywords (like for, while, True) can't be used as variable names.
