@@ -14,7 +14,7 @@ Given an input like:
 This is helpful for transforming variable names, parsing identifiers, or converting code formats between programming styles.
 
 ## Example
-```
+```python
 def convert_to_snake_case(pascal_or_camel_cased_string):
     snake_cased_char_list = [
         '_' + char.lower() if char.isupper() else char
@@ -32,6 +32,7 @@ print(convert_to_snake_case('IAmAPascalCasedString'))
 2. Run it using Python 3:
     ```bash
    Case-Converter_listComprehension.py
+   ```
 3. The main() function will call the converter with a sample string and print the result.
 4. You can replace the test string in main() to try out your own input.
 
