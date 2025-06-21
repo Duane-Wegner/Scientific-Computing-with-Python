@@ -2,7 +2,8 @@
 
 This repository contains my solutions to the projects from the [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) certification offered by freeCodeCamp. The course covers core programming concepts in Python and introduces important computational and algorithmic techniques used in scientific programming.
 
-![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Scientific_Computing_with_Python-0A0A23?logo=freeCodeCamp&logoColor=white&style=flat)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Scientific_Computing_with_Python-0A0A23?logo=freeCodeCamp&logoColor=white&style=flat)](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
 
 ## Curriculum Overview
 
