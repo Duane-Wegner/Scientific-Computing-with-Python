@@ -22,15 +22,16 @@ print(len(text))                # number of characters
 print(type(text))               # check the data type
 print(text.lower())             # convert to lowercase
 
-"""
- Python Notes: Variables & Strings
+# ---------------------------------------------
+# Python Notes: Variables & Strings
 
-- Variable names must begin with a letter or underscore (not a number).
-- Reserved keywords (like for, while, True) can't be used as variable names.
-- Variables are case-sensitive: MY_VAR ≠ my_var.
-- Use snake_case for readability (e.g. encrypted_text).
-- Strings are immutable—they cannot be changed directly.
-"""
+# - Variable names must begin with a letter or underscore (not a number).
+# - Reserved keywords (like for, while, True) can't be used as variable names.
+# - Variables are case-sensitive: MY_VAR ≠ my_var.
+# - Use snake_case for readability (e.g. encrypted_text).
+# - Strings are immutable—they cannot be changed directly.
+# ---------------------------------------------
+
 
 # ---------------------------------------------
 # PART 2: Caesar Cipher — Simple Rotational Encryption
