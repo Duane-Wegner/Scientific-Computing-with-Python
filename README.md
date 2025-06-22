@@ -26,7 +26,7 @@ Below is a list of projects included in this certification, organized by topic:
 ### Core Python Concepts
 
 - [![Certification Project](https://img.shields.io/badge/Certification-Project-blueviolet?style=flat&logo=python&logoColor=white)]()
-[**Arithmetic Formatter**](./Certification-Projects/Arithmetic%20Porgram)
+  [**Arithmetic Formatter**](./Certification-Projects/Arithmetic%20Porgram)
   - This project formats arithmetic problems vertically and side-by-side, just like students would write them in primary school.
 - [**Learn String Manipulation by Building a Cipher**](./Non-Certification-Projects/Section%201/cipher)
   - This project walks through the fundamentals of encryption using Python. It introduces two classical cipher systems, Caesar Cipher and Vigenère Cipher, alongside a practical exploration of string manipulation, control flow, and functional programming.
