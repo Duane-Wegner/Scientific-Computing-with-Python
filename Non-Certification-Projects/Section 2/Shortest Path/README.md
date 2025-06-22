@@ -17,6 +17,8 @@ Welcome to Pathfinding Lab! This project implements Dijkstra's algorithm to calc
 
 ![my_graph.png](my_graph.png)
 
+---
+
 ## What I Learned
 
 ### Graph Modeling
