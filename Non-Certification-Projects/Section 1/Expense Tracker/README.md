@@ -27,7 +27,7 @@ A simple command-line program that helps you **track, categorize, and summarize 
 
 1. **Run the script** in any Python 3 environment:
    ```bash
-   Expense-Tracker_lambdaFunctions.py
+   python Expense-Tracker_lambdaFunctions.py
 2. Choose an option from the menu:
 
     Add an expense (amount + category)

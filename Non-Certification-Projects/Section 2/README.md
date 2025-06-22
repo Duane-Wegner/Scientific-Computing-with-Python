@@ -9,6 +9,6 @@
 - [**Algorithm Design: Shortest Path Algorithm**](./Shortest%20Path)
   - This project implements Dijkstra's algorithm to calculate the shortest distance between nodes in a weighted graph.
 - [**Recursion: Tower of Hanoi**](./Tower%20of%20Hanoi%20Puzzle)
-  - 
+  - This program implements the classic recursive algorithm to solve the Tower of Hanoi puzzle using Python.
 - [**Sorting: Merge Sort Algorithm**](./Merge%20Sort%20Algo)
   - 

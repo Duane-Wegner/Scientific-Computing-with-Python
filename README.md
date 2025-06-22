@@ -44,7 +44,8 @@ Below is a list of projects included in this certification, organized by topic:
   - This project implements the bisection method to approximate the square root of a non-negative number using pure Python. It’s a clear and methodical demonstration of numerical methods applied in scientific computing, designed to reinforce concepts from freeCodeCamp’s Scientific Computing with Python curriculum.
 - [x] [**Algorithm Design: Shortest Path Algorithm**](./Non-Certification-Projects/Section%202/Shortest%20Path)
   - This project implements Dijkstra's algorithm to calculate the shortest distance between nodes in a weighted graph.
-- [ ] **Recursion: Tower of Hanoi**
+- [x] [**Recursion: Tower of Hanoi**](./Non-Certification-Projects/Section%202/Tower%20of%20Hanoi%20Puzzle)
+  - This program implements the classic recursive algorithm to solve the Tower of Hanoi puzzle using Python.
 - [ ] **Sorting: Merge Sort Algorithm**
 
 ### Object-Oriented Programming (OOP)
