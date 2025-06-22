@@ -26,7 +26,9 @@ Below is a list of projects organized by Section.
 - [**Algorithm Design: Shortest Path Algorithm**](./Section%202/Shortest%20Path)
   - This project implements Dijkstra's algorithm to calculate the shortest distance between nodes in a weighted graph.
 - [**Recursion: Tower of Hanoi**](./Section%202/Tower%20of%20Hanoi%20Puzzle)
+  - This program implements the classic recursive algorithm to solve the Tower of Hanoi puzzle using Python.
 - [**Sorting: Merge Sort Algorithm**](./Section%202/Merge%20Sort%20Algo)
+  - This script demonstrates one of the most efficient and foundational sorting algorithms in computer science. 
 
 ### Section 3
 - **Classes and Objects: Sudoku Solver**

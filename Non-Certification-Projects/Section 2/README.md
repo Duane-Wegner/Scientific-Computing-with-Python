@@ -11,4 +11,4 @@
 - [**Recursion: Tower of Hanoi**](./Tower%20of%20Hanoi%20Puzzle)
   - This program implements the classic recursive algorithm to solve the Tower of Hanoi puzzle using Python.
 - [**Sorting: Merge Sort Algorithm**](./Merge%20Sort%20Algo)
-  - 
+  - This script demonstrates one of the most efficient and foundational sorting algorithms in computer science. 

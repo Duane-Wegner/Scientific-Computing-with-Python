@@ -46,13 +46,14 @@ Below is a list of projects included in this certification, organized by topic:
   - This project implements Dijkstra's algorithm to calculate the shortest distance between nodes in a weighted graph.
 - [x] [**Recursion: Tower of Hanoi**](./Non-Certification-Projects/Section%202/Tower%20of%20Hanoi%20Puzzle)
   - This program implements the classic recursive algorithm to solve the Tower of Hanoi puzzle using Python.
-- [ ] **Sorting: Merge Sort Algorithm**
+- [x] [**Sorting: Merge Sort Algorithm**](./Non-Certification-Projects/Section%202/Merge%20Sort%20Algo)
+  - This script demonstrates one of the most efficient and foundational sorting algorithms in computer science. 
 
 ### Object-Oriented Programming (OOP)
-- [ ] **Build a Time Calculator**
-- [ ] **Build a Budget App**
-- [ ] **Build a Polygon Area Calculator**
-- [ ] **Build a Probability Calculator**
+- [x] [![Certification Project](https://img.shields.io/badge/Certification-Project-blueviolet?style=flat&logo=python&logoColor=white)]() **Build a Time Calculator**
+- [ ] [![Certification Project](https://img.shields.io/badge/Certification-Project-blueviolet?style=flat&logo=python&logoColor=white)]() **Build a Budget App**
+- [ ] [![Certification Project](https://img.shields.io/badge/Certification-Project-blueviolet?style=flat&logo=python&logoColor=white)]() **Build a Polygon Area Calculator**
+- [ ] [![Certification Project](https://img.shields.io/badge/Certification-Project-blueviolet?style=flat&logo=python&logoColor=white)]() **Build a Probability Calculator**
 - [ ] **Classes and Objects: Sudoku Solver**
 - [ ] **Encapsulation: Projectile Trajectory Calculator**
 - [ ] **Special Methods: Vector Space**

@@ -50,7 +50,7 @@ This setup reflects the starting condition: all disks are stacked on rod A in de
 3. Run the script using:
 
 ```bash
-python Tower-of-Hanoi_recursion.py
+   python Tower-of-Hanoi_recursion.py
 ```
 Watch the rod lists update after every move until the entire stack transfers from rod A to rod C
 
