@@ -42,7 +42,8 @@ Below is a list of projects included in this certification, organized by topic:
 ### Numerical Methods & Algorithms
 - [x] [**Bisection Method: Square Root Finder**](./Non-Certification-Projects/Section%201/Find%20the%20Square%20Root%20of%20a%20Number)
   - This project implements the bisection method to approximate the square root of a non-negative number using pure Python. It’s a clear and methodical demonstration of numerical methods applied in scientific computing, designed to reinforce concepts from freeCodeCamp’s Scientific Computing with Python curriculum.
-- [ ] **Algorithm Design: Shortest Path Algorithm**
+- [x] [**Algorithm Design: Shortest Path Algorithm**](./Non-Certification-Projects/Section%202/Shortest%20Path)
+  - This project implements Dijkstra's algorithm to calculate the shortest distance between nodes in a weighted graph.
 - [ ] **Recursion: Tower of Hanoi**
 - [ ] **Sorting: Merge Sort Algorithm**
 

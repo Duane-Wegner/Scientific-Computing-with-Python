@@ -24,6 +24,7 @@ Below is a list of projects organized by Section.
 - [**Build a Password Generator Using Regular Expressions**](./Section%202/Password%20Generator)
   - This project puts regular expressions and secure randomness to work by generating customizable passwords with specific character constraints. You'll explore how to combine cryptography and validation logic to create robust, criteria-based outputs.
 - [**Algorithm Design: Shortest Path Algorithm**](./Section%202/Shortest%20Path)
+  - This project implements Dijkstra's algorithm to calculate the shortest distance between nodes in a weighted graph.
 - [**Recursion: Tower of Hanoi**](./Section%202/Tower%20of%20Hanoi%20Puzzle)
 - [**Sorting: Merge Sort Algorithm**](./Section%202/Merge%20Sort%20Algo)
 
