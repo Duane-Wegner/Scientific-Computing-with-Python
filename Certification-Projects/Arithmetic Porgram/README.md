@@ -83,7 +83,7 @@ Language: Python 3.x
 No external libraries required
 
 ---
-## Given project perameters
+## Given project parameters
 
 Build an Arithmetic Formatter Project
 
@@ -127,7 +127,10 @@ Output:
 ----    ------    ------    -----
   40     -3800     19998      474
 ```
-Rules
+
+---
+
+## Rules
 
 The function will return the correct conversion if the supplied problems are properly formatted, otherwise, it will return a string that describes an error that is meaningful to the user.
 

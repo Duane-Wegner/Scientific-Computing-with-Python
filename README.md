@@ -55,7 +55,8 @@ Below is a list of projects included in this certification, organized by topic:
 
 ### Object-Oriented Programming (OOP)
 
-- [![Certification Project](https://img.shields.io/badge/Certification-Project-blueviolet?style=flat&logo=python&logoColor=white)]() **Build a Time Calculator**
+- [![Certification Project](https://img.shields.io/badge/Certification-Project-blueviolet?style=flat&logo=python&logoColor=white)]() [**Time Calculator**](Certification-Projects/Time%20Calculator%20Program)
+  - This project calculates what time it will be after adding a given duration to a starting time.
 - [![Certification Project](https://img.shields.io/badge/Certification-Project-blueviolet?style=flat&logo=python&logoColor=white)]() **Build a Budget App**
 - [![Certification Project](https://img.shields.io/badge/Certification-Project-blueviolet?style=flat&logo=python&logoColor=white)]() **Build a Polygon Area Calculator**
 - [![Certification Project](https://img.shields.io/badge/Certification-Project-blueviolet?style=flat&logo=python&logoColor=white)]() **Build a Probability Calculator**
@@ -72,8 +73,9 @@ Below is a list of projects included in this certification, organized by topic:
 To complete the certification, the following five certification projects must be submitted and pass all test cases:
 
 1. [**Arithmetic Formatter**](./Certification-Projects/Arithmetic%20Porgram)
-   2. This project formats arithmetic problems vertically and side-by-side, just like students would write them in primary school.
-2. Time Calculator
+   1. This project formats arithmetic problems vertically and side-by-side, just like students would write them in primary school.
+2. [**Time Calculator**](Certification-Projects/Time%20Calculator%20Program)
+   1. This project calculates what time it will be after adding a given duration to a starting time.
 3. Budget App
 4. Polygon Area Calculator
 5. Probability Calculator
